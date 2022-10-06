@@ -13,8 +13,9 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date:"%Y. %m. %d. %R" }}</span>
-
+    {% comment %}
     {{ post.content }}
+    {% endcomment %}
   </div>
   {% endfor %}
 </div>
