@@ -10,8 +10,8 @@ permalink:        pretty
 title:            NBlankB
 tagline:          블로그
 description:      '현재 블로그 이사중...'
-url:              ''
-baseurl:          'https://nblankb.github.io/'
+url:              'https://nblankb.github.io/'
+baseurl:          ''
 
 author:
   name:           'Mark Otto'
