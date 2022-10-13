@@ -1,26 +1,29 @@
+# Welcome to Jekyll!
+
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
 
-# Setup
-title:            NBlankB
-tagline:          블로그
-description:      '현재 블로그 이사중...'
-url:              ''
-baseurl:          'https://nblankb.github.io/'
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+title: NBlankB
+tagline: 블로그
+email: ''
+description: '현재 블로그 이사중...'
+url: 'https://nblankb.github.io/'
+baseurl: ''
+github_username: NBlankB
+
+# Build settings
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  
