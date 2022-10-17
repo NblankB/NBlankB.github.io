@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kubernetes CKA 준비 1. AWS 기반 VM으로 H.A 구축"
-date: 2022-10-18 20:55:49 +0900
+date: 2022-10-17 20:55:49 +0900
 category: Kubernetes
 ---
 
