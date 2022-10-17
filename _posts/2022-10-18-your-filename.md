@@ -8,4 +8,5 @@ category: Kubernetes
 블로그 이사 하면서 쓰는 첫 글  
 언제 끝날지...
 #
-쿠버네티스 
+H.A(High Availavility, 고가용성)
+
