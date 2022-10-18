@@ -28,3 +28,4 @@ plugins:
   - jekyll-gist
   
 futrue: true
+timezone: Asia/Seoul

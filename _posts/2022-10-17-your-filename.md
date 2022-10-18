@@ -4,6 +4,7 @@ title:  "Kubernetes CKA 준비 - 1. AWS 기반 VM으로 H.A 구축"
 date: 2022-10-17 20:55:49 +0900
 category: Kubernetes
 ---
+  
 #  
 
 블로그 이사 하면서 쓰는 첫 글  
@@ -23,7 +24,7 @@ category: Kubernetes
 - AWS Instances(t3.large-gp3-20gb, Ubuntu20.04), Calico network plugin, Kubernetes v1.24.0  
 
 ![Bench](https://miro.medium.com/max/720/1*zDiFQZVXuL923x0LbmXMaA.png)[^2]  
-이전까지
+해당 벤치마크를 참고하여, 이전까지 Weave Net CNI으로 구성해봤다면 이번에는 실제 많이 사용되는 Calico로 구성해보려 한다.  
 
 
 ---
