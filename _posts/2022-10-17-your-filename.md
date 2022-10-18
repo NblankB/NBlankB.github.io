@@ -9,6 +9,7 @@ category: Kubernetes
 블로그 이사 하면서 쓰는 첫 글  
 언제 끝날지...
   
+{: toc}  
 
 ## H.A(High Availavility, 고가용성)
 - kubernetes.io - [HA Topology](https://kubernetes.io/ko/docs/setup/production-environment/tools/kubeadm/ha-topology/), RedHat - [High Availability Containers](https://www.redhat.com/ko/topics/containers/high-availability-containers)
@@ -21,8 +22,12 @@ category: Kubernetes
 ### 환경
 - AWS Instances(t3.large-gp3-20gb, Ubuntu20.04), Calico network plugin, Kubernetes v1.24.0  
 
-![Bench](https://miro.medium.com/max/720/1*zDiFQZVXuL923x0LbmXMaA.png)[Source : itnext]  
+![Bench](https://miro.medium.com/max/720/1*zDiFQZVXuL923x0LbmXMaA.png)[^2]  
 이전까지
 
 
-[^1]: Source : google kubernetes
+---
+### 각주
+{: .no_toc}  
+[^1]: google kubernetes  
+[^2]: itnext  
