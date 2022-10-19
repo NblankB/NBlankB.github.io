@@ -22,7 +22,7 @@
         {% if node.title != null %}
           {% if node.layout == "category" %}
             <!--<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>-->
-            <a class="category-link{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a><br/>
+            <a class="categories-link{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a><br/>
           {% endif %}
         {% endif %}
       {% endfor %}
