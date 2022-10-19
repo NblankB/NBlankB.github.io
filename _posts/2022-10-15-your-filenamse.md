@@ -2,7 +2,7 @@
 layout: post
 title:  "카카오톡 서버 장애"
 date: 2022-10-15 21:01:16 +0900
-permalink: /categories/
+permalink: /:categories/
 categories: [Daily]
 toc: true
 ---
