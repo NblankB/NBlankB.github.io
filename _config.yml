@@ -30,9 +30,9 @@ plugins:
 futrue: true
 timezone: Asia/Seoul
 
-category_list:
+category_archive:
   type: liquid
   path: /categories/
-tag_list:
+tag_archive:
   type: liquid
   path: /tags/
