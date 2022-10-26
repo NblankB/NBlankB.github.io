@@ -1,9 +1,3 @@
 main:
-  #- title: "Home"
-  #  url: "/"
-  - title: "Introduce"
-    url: /about/
   - title: "Category"
     url: "/categories/"
-  - title: "Tags"
-    url: /tags/
