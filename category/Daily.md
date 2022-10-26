@@ -1,5 +1,5 @@
 ---
-layout: category
+#layout: categories
 title: Daily
-permalink: '/Daily'
+permalink: '/category/daily'
 ---
