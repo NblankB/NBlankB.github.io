@@ -1,5 +1,5 @@
 ---
-#layout: categories
+layout: category
 title: Kubernetes
-permalink: '/category/kubernetes'
+permalink: '/Kubernetes'
 ---

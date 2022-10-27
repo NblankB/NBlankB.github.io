@@ -1,5 +1,5 @@
 ---
-#layout: categories
+layout: category
 title: Linux
-permalink: '/category/linux'
+permalink: '/Linux'
 ---
