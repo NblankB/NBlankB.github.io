@@ -39,4 +39,3 @@ gem "jemoji"
 
 gem "webrick", "~> 1.7"
 gem 'jekyll-admin', group: :jekyll_plugins
-gem 'jekyll-archives'

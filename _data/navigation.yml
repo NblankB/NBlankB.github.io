@@ -1,11 +1,3 @@
-post:
-  - title: Categories
-    children:
-      - title: Daily
-        url: /categories/daily/
-      - title: Study
-        url: /categories/study/
-      - title: Kubernetes
-        url: /categories/study/kubernetes
-        - title: Linux
-        url: /categories/study/linux
+main:
+  - title: "Category"
+    url: "/categories/"

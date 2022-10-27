@@ -26,25 +26,13 @@ github_username: NBlankB
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-archives
   
 futrue: true
 timezone: Asia/Seoul
 
-collections:
-  category:
-    output: true
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
-category_archive:
-  type: liquid
-  path: /categories/
- tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
